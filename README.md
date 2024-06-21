@@ -1,3 +1,5 @@
+This Application is deployed at: https://threads-clone-n5cr.onrender.com/
+
 Feature List:
 
 -   🌟 Tech stack: MERN + Socket.io

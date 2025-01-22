@@ -1,4 +1,5 @@
 This Application is deployed at: https://threads-clone-n5cr.onrender.com/
+but please open in private/incognito mode, I am looking for the issues occurring when opened in  normal tab.
 
 Feature List:
 
